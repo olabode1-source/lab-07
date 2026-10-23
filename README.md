@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 7 Participation Exercise
 
 ## Student Details
-- **Full Name:** `Precious Olabode
+- **Full Name:** `Precious Olabode`
 - **CCID:** `olabode1`
 
 ## References and Resources
